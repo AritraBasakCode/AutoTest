@@ -1,0 +1,6 @@
+.status.cancelled{color:#8a8a90}
+.ai-explain{margin-left:6px;border:1px solid #e4def5;border-radius:5px;background:#f8f6ff;color:#705bc7;padding:4px 7px;display:flex;align-items:center;gap:4px;font:600 9px Inter,sans-serif;cursor:pointer}
+.ai-explain:disabled{opacity:.55;cursor:wait}
+.ai-answer{margin-top:10px;border:1px solid #e6e0f4;border-radius:7px;background:#fbfaff;padding:10px 11px}
+.ai-answer>b{display:flex;align-items:center;gap:6px;color:#705bc7;font-size:9px}
+.ai-answer p{white-space:pre-wrap;color:#56525f;font-size:10px;line-height:1.65;margin:7px 0 0}

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.venv/
+.venv314/
+.venv-autotest/
+.tmp/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+backend/.data/

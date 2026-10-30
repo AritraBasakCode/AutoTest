@@ -1,0 +1,10 @@
+{
+  "name": "autotest-sample-project",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "test:unit": "node --test tests/unit.test.js",
+    "test:e2e": "node tests/e2e.test.js"
+  }
+}
